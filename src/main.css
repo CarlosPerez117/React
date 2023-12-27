@@ -1,0 +1,16 @@
+.clase-li {
+    background-color: red !important;
+}
+
+.btn{
+    transition: all 0.3s ease-in-out;
+    background-color: #057;
+    color:white;
+    border: 0;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.btn:hover{
+    background-color: #750;
+}
