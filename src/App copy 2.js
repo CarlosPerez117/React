@@ -1,7 +1,7 @@
 import './main.css';
 import Button from './Button';
 
-const Arr = ["Hola","adios","pito"]
+const Arr = ["Hola","adios","que tal"]
 function App() {
   const miVariable = true;
   if(!miVariable) {
